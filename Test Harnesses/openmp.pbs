@@ -1,0 +1,47 @@
+#PBS -q class
+#PBS -l nodes=1:fourcore
+#PBS -l walltime=00:15:00
+#PBS -N psmmdr_openmp
+
+export OMPI_MCA_mpi_yield_when_idle=0
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE
+
+echo "*** STARTED: `date` on `hostname` ***"
+echo $PWD
+cat $PBS_NODEFILE
+echo -e "\n\n"
+source /nethome/psmm3/prj2/barrier/setup-mpi.sh
+
+# Run the program
+
+for i in 1 10 25 50 75 100 250 500 750 1000
+do
+	for j in 2 4 6 8
+	do
+		echo "Centralized B="$i" T="$j
+		timeout 60 /nethome/psmm3/prj2/barrier/spin_sense $j $i
+	done
+done
+
+for i in 1 10 25 50 75 100 250 500 750 1000
+do
+	for j in 2 4 6 8
+	do
+		echo "Tree B="$i" T="$j
+		timeout 60 /nethome/psmm3/prj2/barrier/tree_barrier $j $i
+	done
+done
+
+for i in 1 10 25 50 75 100 250 500 750 1000
+do
+	for j in 2 4 6 8
+	do
+		echo "OMP B="$i" T="$j
+		timeout 60 /nethome/psmm3/prj2/barrier/omp_barrier $j $i
+	done
+done
+
+echo "*** COMPLETED: `date` on `hostname` ***"
+
+# eof

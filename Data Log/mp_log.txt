@@ -1,0 +1,253 @@
+Adding user psmm3 to group authjobs
+jinx27
+*** STARTED: Fri Mar  8 19:19:36 EST 2013 on jinx27 ***
+/nethome/psmm3/prj2/barrier
+jinx27
+
+
+Centralized B=1 P=2
+Barrier_Time=0.000002
+Centralized B=1 P=4
+Barrier_Time=0.000003
+Centralized B=1 P=6
+Barrier_Time=0.000004
+Centralized B=1 P=8
+Barrier_Time=0.000005
+Centralized B=10 P=2
+Barrier_Time=0.000001
+Centralized B=10 P=4
+Barrier_Time=0.000002
+Centralized B=10 P=6
+Barrier_Time=0.000003
+Centralized B=10 P=8
+Barrier_Time=0.000015
+Centralized B=25 P=2
+Barrier_Time=0.000001
+Centralized B=25 P=4
+Barrier_Time=0.000002
+Centralized B=25 P=6
+Barrier_Time=0.000003
+Centralized B=25 P=8
+Barrier_Time=0.000005
+Centralized B=50 P=2
+Barrier_Time=0.000001
+Centralized B=50 P=4
+Barrier_Time=0.000002
+Centralized B=50 P=6
+Barrier_Time=0.000003
+Centralized B=50 P=8
+Barrier_Time=0.000004
+Centralized B=75 P=2
+Barrier_Time=0.000002
+Centralized B=75 P=4
+Barrier_Time=0.000002
+Centralized B=75 P=6
+Barrier_Time=0.000003
+Centralized B=75 P=8
+Barrier_Time=0.000011
+Centralized B=100 P=2
+Barrier_Time=0.000001
+Centralized B=100 P=4
+Barrier_Time=0.000002
+Centralized B=100 P=6
+Barrier_Time=0.000003
+Centralized B=100 P=8
+Barrier_Time=0.000017
+Centralized B=250 P=2
+Barrier_Time=0.000001
+Centralized B=250 P=4
+Barrier_Time=0.000002
+Centralized B=250 P=6
+Barrier_Time=0.000003
+Centralized B=250 P=8
+Barrier_Time=0.000004
+Centralized B=500 P=2
+Barrier_Time=0.000001
+Centralized B=500 P=4
+Barrier_Time=0.000002
+Centralized B=500 P=6
+Barrier_Time=0.000005
+Centralized B=500 P=8
+Barrier_Time=0.000006
+Centralized B=750 P=2
+Barrier_Time=0.000001
+Centralized B=750 P=4
+Barrier_Time=0.000002
+Centralized B=750 P=6
+Barrier_Time=0.000003
+Centralized B=750 P=8
+Barrier_Time=0.000006
+Centralized B=1000 P=2
+Barrier_Time=0.000001
+Centralized B=1000 P=4
+Barrier_Time=0.000002
+Centralized B=1000 P=6
+Barrier_Time=0.000003
+Centralized B=1000 P=8
+Barrier_Time=0.000005
+
+Tree B=1 P=2
+Barrier_Time=0.000004
+Tree B=1 P=4
+Barrier_Time=0.000014
+Tree B=1 P=6
+Barrier_Time=0.000034
+Tree B=1 P=8
+Barrier_Time=0.000050
+Tree B=10 P=2
+Barrier_Time=0.000006
+Tree B=10 P=4
+Barrier_Time=0.000024
+Tree B=10 P=6
+Barrier_Time=0.000055
+Tree B=10 P=8
+Barrier_Time=0.000056
+Tree B=25 P=2
+Barrier_Time=0.000004
+Tree B=25 P=4
+Barrier_Time=0.000022
+Tree B=25 P=6
+Barrier_Time=0.000097
+Tree B=25 P=8
+Barrier_Time=0.000056
+Tree B=50 P=2
+Barrier_Time=0.000004
+Tree B=50 P=4
+Barrier_Time=0.000034
+Tree B=50 P=6
+Barrier_Time=0.000048
+Tree B=50 P=8
+Barrier_Time=0.000058
+Tree B=75 P=2
+Barrier_Time=0.000006
+Tree B=75 P=4
+Barrier_Time=0.000057
+Tree B=75 P=6
+Barrier_Time=0.000045
+Tree B=75 P=8
+Barrier_Time=0.000072
+Tree B=100 P=2
+Barrier_Time=0.000005
+Tree B=100 P=4
+Barrier_Time=0.000037
+Tree B=100 P=6
+Barrier_Time=0.000088
+Tree B=100 P=8
+Barrier_Time=0.000056
+Tree B=250 P=2
+Barrier_Time=0.000002
+Tree B=250 P=4
+Barrier_Time=0.000026
+Tree B=250 P=6
+Barrier_Time=0.000060
+Tree B=250 P=8
+Barrier_Time=0.000068
+Tree B=500 P=2
+Barrier_Time=0.000008
+Tree B=500 P=4
+Barrier_Time=0.000026
+Tree B=500 P=6
+Barrier_Time=0.000056
+Tree B=500 P=8
+Barrier_Time=0.000063
+Tree B=750 P=2
+Barrier_Time=0.000005
+Tree B=750 P=4
+Barrier_Time=0.000026
+Tree B=750 P=6
+Barrier_Time=0.000043
+Tree B=750 P=8
+Barrier_Time=0.000055
+Tree B=1000 P=2
+Barrier_Time=0.000004
+Tree B=1000 P=4
+Barrier_Time=0.000029
+Tree B=1000 P=6
+Barrier_Time=0.000047
+Tree B=1000 P=8
+Barrier_Time=0.000076
+
+OMP B=1 P=2
+Barrier_Time=0.000003
+OMP B=1 P=4
+Barrier_Time=0.000004
+OMP B=1 P=6
+Barrier_Time=0.000004
+OMP B=1 P=8
+Barrier_Time=0.000006
+OMP B=10 P=2
+Barrier_Time=0.000001
+OMP B=10 P=4
+Barrier_Time=0.000002
+OMP B=10 P=6
+Barrier_Time=0.000002
+OMP B=10 P=8
+Barrier_Time=0.000003
+OMP B=25 P=2
+Barrier_Time=0.000001
+OMP B=25 P=4
+Barrier_Time=0.000001
+OMP B=25 P=6
+Barrier_Time=0.000002
+OMP B=25 P=8
+Barrier_Time=0.000003
+OMP B=50 P=2
+Barrier_Time=0.000001
+OMP B=50 P=4
+Barrier_Time=0.000001
+OMP B=50 P=6
+Barrier_Time=0.000002
+OMP B=50 P=8
+Barrier_Time=0.000003
+OMP B=75 P=2
+Barrier_Time=0.000001
+OMP B=75 P=4
+Barrier_Time=0.000001
+OMP B=75 P=6
+Barrier_Time=0.000002
+OMP B=75 P=8
+Barrier_Time=0.000002
+OMP B=100 P=2
+Barrier_Time=0.000001
+OMP B=100 P=4
+Barrier_Time=0.000001
+OMP B=100 P=6
+Barrier_Time=0.000002
+OMP B=100 P=8
+Barrier_Time=0.000002
+OMP B=250 P=2
+Barrier_Time=0.000001
+OMP B=250 P=4
+Barrier_Time=0.000001
+OMP B=250 P=6
+Barrier_Time=0.000002
+OMP B=250 P=8
+Barrier_Time=0.000002
+OMP B=500 P=2
+Barrier_Time=0.000001
+OMP B=500 P=4
+Barrier_Time=0.000001
+OMP B=500 P=6
+Barrier_Time=0.000002
+OMP B=500 P=8
+Barrier_Time=0.000002
+OMP B=750 P=2
+Barrier_Time=0.000001
+OMP B=750 P=4
+Barrier_Time=0.000001
+OMP B=750 P=6
+Barrier_Time=0.000002
+OMP B=750 P=8
+Barrier_Time=0.000002
+OMP B=1000 P=2
+Barrier_Time=0.000001
+OMP B=1000 P=4
+Barrier_Time=0.000001
+OMP B=1000 P=6
+Barrier_Time=0.000002
+OMP B=1000 P=8
+Barrier_Time=0.000002
+
+
+*** COMPLETED: Fri Mar  8 19:27:44 EST 2013 on jinx27 ***
+Removing user psmm3 from group authjobs

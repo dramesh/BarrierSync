@@ -1,0 +1,692 @@
+Adding user psmm3 to group authjobs
+jinx5
+jinx6
+jinx7
+jinx8
+jinx9
+jinx10
+jinx11
+jinx12
+jinx13
+jinx14
+jinx15
+jinx17
+*** STARTED: Sun Mar 10 22:45:45 EDT 2013 on jinx5 ***
+/nethome/psmm3/prj2/barrier
+jinx5
+jinx6
+jinx7
+jinx8
+jinx9
+jinx10
+jinx11
+jinx12
+jinx13
+jinx14
+jinx15
+jinx17
+
+
+
+MCS B=1 N=2
+Barrier_Time=0.000557
+MCS B=1 N=3
+Barrier_Time=0.001352
+MCS B=1 N=4
+Barrier_Time=0.001509
+MCS B=1 N=5
+Barrier_Time=0.001693
+MCS B=1 N=6
+Barrier_Time=0.002946
+MCS B=1 N=7
+Barrier_Time=0.002634
+MCS B=1 N=8
+Barrier_Time=0.003471
+MCS B=1 N=9
+Barrier_Time=0.002857
+MCS B=1 N=10
+Barrier_Time=0.004791
+MCS B=1 N=11
+Barrier_Time=0.004262
+MCS B=1 N=12
+Barrier_Time=0.003426
+MCS B=10 N=2
+Barrier_Time=0.000147
+MCS B=10 N=3
+Barrier_Time=0.000176
+MCS B=10 N=4
+Barrier_Time=0.000311
+MCS B=10 N=5
+Barrier_Time=0.000410
+MCS B=10 N=6
+Barrier_Time=0.000541
+MCS B=10 N=7
+Barrier_Time=0.000579
+MCS B=10 N=8
+Barrier_Time=0.000504
+MCS B=10 N=9
+Barrier_Time=0.000646
+MCS B=10 N=10
+Barrier_Time=0.000656
+MCS B=10 N=11
+Barrier_Time=0.000730
+MCS B=10 N=12
+Barrier_Time=0.000700
+MCS B=25 N=2
+Barrier_Time=0.000097
+MCS B=25 N=3
+Barrier_Time=0.000142
+MCS B=25 N=4
+Barrier_Time=0.000209
+MCS B=25 N=5
+Barrier_Time=0.000227
+MCS B=25 N=6
+Barrier_Time=0.000346
+MCS B=25 N=7
+Barrier_Time=0.000354
+MCS B=25 N=8
+Barrier_Time=0.000399
+MCS B=25 N=9
+Barrier_Time=0.000354
+MCS B=25 N=10
+Barrier_Time=0.000439
+MCS B=25 N=11
+Barrier_Time=0.000430
+MCS B=25 N=12
+Barrier_Time=0.000476
+MCS B=50 N=2
+Barrier_Time=0.000076
+MCS B=50 N=3
+Barrier_Time=0.000124
+MCS B=50 N=4
+Barrier_Time=0.000178
+MCS B=50 N=5
+Barrier_Time=0.000170
+MCS B=50 N=6
+Barrier_Time=0.000275
+MCS B=50 N=7
+Barrier_Time=0.000291
+MCS B=50 N=8
+Barrier_Time=0.000295
+MCS B=50 N=9
+Barrier_Time=0.000306
+MCS B=50 N=10
+Barrier_Time=0.000299
+MCS B=50 N=11
+Barrier_Time=0.000360
+MCS B=50 N=12
+Barrier_Time=0.000349
+MCS B=75 N=2
+Barrier_Time=0.000077
+MCS B=75 N=3
+Barrier_Time=0.000117
+MCS B=75 N=4
+Barrier_Time=0.000141
+MCS B=75 N=5
+Barrier_Time=0.000141
+MCS B=75 N=6
+Barrier_Time=0.000233
+MCS B=75 N=7
+Barrier_Time=0.000268
+MCS B=75 N=8
+Barrier_Time=0.000300
+MCS B=75 N=9
+Barrier_Time=0.000287
+MCS B=75 N=10
+Barrier_Time=0.000313
+MCS B=75 N=11
+Barrier_Time=0.000296
+MCS B=75 N=12
+Barrier_Time=0.000333
+MCS B=100 N=2
+Barrier_Time=0.000067
+MCS B=100 N=3
+Barrier_Time=0.000111
+MCS B=100 N=4
+Barrier_Time=0.000186
+MCS B=100 N=5
+Barrier_Time=0.000161
+MCS B=100 N=6
+Barrier_Time=0.000268
+MCS B=100 N=7
+Barrier_Time=0.000225
+MCS B=100 N=8
+Barrier_Time=0.000231
+MCS B=100 N=9
+Barrier_Time=0.000244
+MCS B=100 N=10
+Barrier_Time=0.000257
+MCS B=100 N=11
+Barrier_Time=0.000277
+MCS B=100 N=12
+Barrier_Time=0.000259
+MCS B=250 N=2
+Barrier_Time=0.000063
+MCS B=250 N=3
+Barrier_Time=0.000102
+MCS B=250 N=4
+Barrier_Time=0.000181
+MCS B=250 N=5
+Barrier_Time=0.000135
+MCS B=250 N=6
+Barrier_Time=0.000247
+MCS B=250 N=7
+Barrier_Time=0.000193
+MCS B=250 N=8
+Barrier_Time=0.000218
+MCS B=250 N=9
+Barrier_Time=0.000315
+MCS B=250 N=10
+Barrier_Time=0.000248
+MCS B=250 N=11
+Barrier_Time=0.000262
+MCS B=250 N=12
+Barrier_Time=0.000270
+MCS B=500 N=2
+Barrier_Time=0.000092
+MCS B=500 N=3
+Barrier_Time=0.000101
+MCS B=500 N=4
+Barrier_Time=0.000103
+MCS B=500 N=5
+Barrier_Time=0.000123
+MCS B=500 N=6
+Barrier_Time=0.000211
+MCS B=500 N=7
+Barrier_Time=0.000215
+MCS B=500 N=8
+Barrier_Time=0.000237
+MCS B=500 N=9
+Barrier_Time=0.000197
+MCS B=500 N=10
+Barrier_Time=0.000262
+MCS B=500 N=11
+Barrier_Time=0.000258
+MCS B=500 N=12
+Barrier_Time=0.000252
+MCS B=750 N=2
+Barrier_Time=0.000057
+MCS B=750 N=3
+Barrier_Time=0.000067
+MCS B=750 N=4
+Barrier_Time=0.000165
+MCS B=750 N=5
+Barrier_Time=0.000167
+MCS B=750 N=6
+Barrier_Time=0.000186
+MCS B=750 N=7
+Barrier_Time=0.000203
+MCS B=750 N=8
+Barrier_Time=0.000239
+MCS B=750 N=9
+Barrier_Time=0.000218
+MCS B=750 N=10
+Barrier_Time=0.000248
+MCS B=750 N=11
+Barrier_Time=0.000259
+MCS B=750 N=12
+Barrier_Time=0.000245
+MCS B=1000 N=2
+Barrier_Time=0.000058
+MCS B=1000 N=3
+Barrier_Time=0.000099
+MCS B=1000 N=4
+Barrier_Time=0.000160
+MCS B=1000 N=5
+Barrier_Time=0.000167
+MCS B=1000 N=6
+Barrier_Time=0.000215
+MCS B=1000 N=7
+Barrier_Time=0.000216
+MCS B=1000 N=8
+Barrier_Time=0.000208
+MCS B=1000 N=9
+Barrier_Time=0.000209
+MCS B=1000 N=10
+Barrier_Time=0.000224
+MCS B=1000 N=11
+Barrier_Time=0.000215
+MCS B=1000 N=12
+Barrier_Time=0.000245
+TMT B=1 N=2
+Barrier_Time=0.000508
+TMT B=1 N=3
+Barrier_Time=0.000611
+TMT B=1 N=4
+Barrier_Time=0.001804
+TMT B=1 N=5
+Barrier_Time=0.001608
+TMT B=1 N=6
+Barrier_Time=0.000931
+TMT B=1 N=7
+Barrier_Time=0.001454
+TMT B=1 N=8
+Barrier_Time=0.002960
+TMT B=1 N=9
+Barrier_Time=0.002374
+TMT B=1 N=10
+Barrier_Time=0.001856
+TMT B=1 N=11
+Barrier_Time=0.002161
+TMT B=1 N=12
+Barrier_Time=0.003043
+TMT B=10 N=2
+Barrier_Time=0.000146
+TMT B=10 N=3
+Barrier_Time=0.000274
+TMT B=10 N=4
+Barrier_Time=0.000304
+TMT B=10 N=5
+Barrier_Time=0.000336
+TMT B=10 N=6
+Barrier_Time=0.000371
+TMT B=10 N=7
+Barrier_Time=0.000421
+TMT B=10 N=8
+Barrier_Time=0.000631
+TMT B=10 N=9
+Barrier_Time=0.000548
+TMT B=10 N=10
+Barrier_Time=0.000675
+TMT B=10 N=11
+Barrier_Time=0.000636
+TMT B=10 N=12
+Barrier_Time=0.000652
+TMT B=25 N=2
+Barrier_Time=0.000111
+TMT B=25 N=3
+Barrier_Time=0.000143
+TMT B=25 N=4
+Barrier_Time=0.000247
+TMT B=25 N=5
+Barrier_Time=0.000293
+TMT B=25 N=6
+Barrier_Time=0.000304
+TMT B=25 N=7
+Barrier_Time=0.000313
+TMT B=25 N=8
+Barrier_Time=0.000393
+TMT B=25 N=9
+Barrier_Time=0.000371
+TMT B=25 N=10
+Barrier_Time=0.000421
+TMT B=25 N=11
+Barrier_Time=0.000349
+TMT B=25 N=12
+Barrier_Time=0.000455
+TMT B=50 N=2
+Barrier_Time=0.000074
+TMT B=50 N=3
+Barrier_Time=0.000127
+TMT B=50 N=4
+Barrier_Time=0.000221
+TMT B=50 N=5
+Barrier_Time=0.000235
+TMT B=50 N=6
+Barrier_Time=0.000255
+TMT B=50 N=7
+Barrier_Time=0.000252
+TMT B=50 N=8
+Barrier_Time=0.000353
+TMT B=50 N=9
+Barrier_Time=0.000284
+TMT B=50 N=10
+Barrier_Time=0.000321
+TMT B=50 N=11
+Barrier_Time=0.000374
+TMT B=50 N=12
+Barrier_Time=0.000372
+TMT B=75 N=2
+Barrier_Time=0.000072
+TMT B=75 N=3
+Barrier_Time=0.000109
+TMT B=75 N=4
+Barrier_Time=0.000152
+TMT B=75 N=5
+Barrier_Time=0.000255
+TMT B=75 N=6
+Barrier_Time=0.000221
+TMT B=75 N=7
+Barrier_Time=0.000284
+TMT B=75 N=8
+Barrier_Time=0.000382
+TMT B=75 N=9
+Barrier_Time=0.000313
+TMT B=75 N=10
+Barrier_Time=0.000335
+TMT B=75 N=11
+Barrier_Time=0.000374
+TMT B=75 N=12
+Barrier_Time=0.000354
+TMT B=100 N=2
+Barrier_Time=0.000109
+TMT B=100 N=3
+Barrier_Time=0.000106
+TMT B=100 N=4
+Barrier_Time=0.000186
+TMT B=100 N=5
+Barrier_Time=0.000219
+TMT B=100 N=6
+Barrier_Time=0.000204
+TMT B=100 N=7
+Barrier_Time=0.000225
+TMT B=100 N=8
+Barrier_Time=0.000271
+TMT B=100 N=9
+Barrier_Time=0.000393
+TMT B=100 N=10
+Barrier_Time=0.000322
+TMT B=100 N=11
+Barrier_Time=0.000311
+TMT B=100 N=12
+Barrier_Time=0.000321
+TMT B=250 N=2
+Barrier_Time=0.000061
+TMT B=250 N=3
+Barrier_Time=0.000071
+TMT B=250 N=4
+Barrier_Time=0.000192
+TMT B=250 N=5
+Barrier_Time=0.000230
+TMT B=250 N=6
+Barrier_Time=0.000220
+TMT B=250 N=7
+Barrier_Time=0.000218
+TMT B=250 N=8
+Barrier_Time=0.000264
+TMT B=250 N=9
+Barrier_Time=0.000277
+TMT B=250 N=10
+Barrier_Time=0.000269
+TMT B=250 N=11
+Barrier_Time=0.000290
+TMT B=250 N=12
+Barrier_Time=0.000280
+TMT B=500 N=2
+Barrier_Time=0.000057
+TMT B=500 N=3
+Barrier_Time=0.000100
+TMT B=500 N=4
+Barrier_Time=0.000186
+TMT B=500 N=5
+Barrier_Time=0.000233
+TMT B=500 N=6
+Barrier_Time=0.000158
+TMT B=500 N=7
+Barrier_Time=0.000229
+TMT B=500 N=8
+Barrier_Time=0.000233
+TMT B=500 N=9
+Barrier_Time=0.000281
+TMT B=500 N=10
+Barrier_Time=0.000351
+TMT B=500 N=11
+Barrier_Time=0.000295
+TMT B=500 N=12
+Barrier_Time=0.000324
+TMT B=750 N=2
+Barrier_Time=0.000060
+TMT B=750 N=3
+Barrier_Time=0.000099
+TMT B=750 N=4
+Barrier_Time=0.000214
+TMT B=750 N=5
+Barrier_Time=0.000173
+TMT B=750 N=6
+Barrier_Time=0.000192
+TMT B=750 N=7
+Barrier_Time=0.000158
+TMT B=750 N=8
+Barrier_Time=0.000282
+TMT B=750 N=9
+Barrier_Time=0.000299
+TMT B=750 N=10
+Barrier_Time=0.000319
+TMT B=750 N=11
+Barrier_Time=0.000277
+TMT B=750 N=12
+Barrier_Time=0.000329
+TMT B=1000 N=2
+Barrier_Time=0.000054
+TMT B=1000 N=3
+Barrier_Time=0.000065
+TMT B=1000 N=4
+Barrier_Time=0.000106
+TMT B=1000 N=5
+Barrier_Time=0.000227
+TMT B=1000 N=6
+Barrier_Time=0.000182
+TMT B=1000 N=7
+Barrier_Time=0.000178
+TMT B=1000 N=8
+Barrier_Time=0.000276
+TMT B=1000 N=9
+Barrier_Time=0.000273
+TMT B=1000 N=10
+Barrier_Time=0.000327
+TMT B=1000 N=11
+Barrier_Time=0.000292
+TMT B=1000 N=12
+Barrier_Time=0.000294
+MPI B=1 N=2
+Barrier_Time=0.000338
+MPI B=1 N=3
+Barrier_Time=0.001972
+MPI B=1 N=4
+Barrier_Time=0.001088
+MPI B=1 N=5
+Barrier_Time=0.002760
+MPI B=1 N=6
+Barrier_Time=0.001830
+MPI B=1 N=7
+Barrier_Time=0.002639
+MPI B=1 N=8
+Barrier_Time=0.001855
+MPI B=1 N=9
+Barrier_Time=0.003078
+MPI B=1 N=10
+Barrier_Time=0.003787
+MPI B=1 N=11
+Barrier_Time=0.005077
+MPI B=1 N=12
+Barrier_Time=0.003302
+MPI B=10 N=2
+Barrier_Time=0.000141
+MPI B=10 N=3
+Barrier_Time=0.000265
+MPI B=10 N=4
+Barrier_Time=0.000255
+MPI B=10 N=5
+Barrier_Time=0.000357
+MPI B=10 N=6
+Barrier_Time=0.000370
+MPI B=10 N=7
+Barrier_Time=0.000382
+MPI B=10 N=8
+Barrier_Time=0.000368
+MPI B=10 N=9
+Barrier_Time=0.000402
+MPI B=10 N=10
+Barrier_Time=0.000442
+MPI B=10 N=11
+Barrier_Time=0.000451
+MPI B=10 N=12
+Barrier_Time=0.000454
+MPI B=25 N=2
+Barrier_Time=0.000101
+MPI B=25 N=3
+Barrier_Time=0.000115
+MPI B=25 N=4
+Barrier_Time=0.000165
+MPI B=25 N=5
+Barrier_Time=0.000199
+MPI B=25 N=6
+Barrier_Time=0.000241
+MPI B=25 N=7
+Barrier_Time=0.000291
+MPI B=25 N=8
+Barrier_Time=0.000251
+MPI B=25 N=9
+Barrier_Time=0.000332
+MPI B=25 N=10
+Barrier_Time=0.000361
+MPI B=25 N=11
+Barrier_Time=0.000323
+MPI B=25 N=12
+Barrier_Time=0.000321
+MPI B=50 N=2
+Barrier_Time=0.000077
+MPI B=50 N=3
+Barrier_Time=0.000117
+MPI B=50 N=4
+Barrier_Time=0.000120
+MPI B=50 N=5
+Barrier_Time=0.000177
+MPI B=50 N=6
+Barrier_Time=0.000186
+MPI B=50 N=7
+Barrier_Time=0.000221
+MPI B=50 N=8
+Barrier_Time=0.000191
+MPI B=50 N=9
+Barrier_Time=0.000286
+MPI B=50 N=10
+Barrier_Time=0.000241
+MPI B=50 N=11
+Barrier_Time=0.000263
+MPI B=50 N=12
+Barrier_Time=0.000255
+MPI B=75 N=2
+Barrier_Time=0.000057
+MPI B=75 N=3
+Barrier_Time=0.000105
+MPI B=75 N=4
+Barrier_Time=0.000109
+MPI B=75 N=5
+Barrier_Time=0.000158
+MPI B=75 N=6
+Barrier_Time=0.000170
+MPI B=75 N=7
+Barrier_Time=0.000208
+MPI B=75 N=8
+Barrier_Time=0.000177
+MPI B=75 N=9
+Barrier_Time=0.000234
+MPI B=75 N=10
+Barrier_Time=0.000244
+MPI B=75 N=11
+Barrier_Time=0.000239
+MPI B=75 N=12
+Barrier_Time=0.000237
+MPI B=100 N=2
+Barrier_Time=0.000075
+MPI B=100 N=3
+Barrier_Time=0.000106
+MPI B=100 N=4
+Barrier_Time=0.000107
+MPI B=100 N=5
+Barrier_Time=0.000138
+MPI B=100 N=6
+Barrier_Time=0.000163
+MPI B=100 N=7
+Barrier_Time=0.000209
+MPI B=100 N=8
+Barrier_Time=0.000166
+MPI B=100 N=9
+Barrier_Time=0.000208
+MPI B=100 N=10
+Barrier_Time=0.000236
+MPI B=100 N=11
+Barrier_Time=0.000240
+MPI B=100 N=12
+Barrier_Time=0.000234
+MPI B=250 N=2
+Barrier_Time=0.000067
+MPI B=250 N=3
+Barrier_Time=0.000096
+MPI B=250 N=4
+Barrier_Time=0.000092
+MPI B=250 N=5
+Barrier_Time=0.000144
+MPI B=250 N=6
+Barrier_Time=0.000132
+MPI B=250 N=7
+Barrier_Time=0.000157
+MPI B=250 N=8
+Barrier_Time=0.000156
+MPI B=250 N=9
+Barrier_Time=0.000188
+MPI B=250 N=10
+Barrier_Time=0.000192
+MPI B=250 N=11
+Barrier_Time=0.000200
+MPI B=250 N=12
+Barrier_Time=0.000196
+MPI B=500 N=2
+Barrier_Time=0.000069
+MPI B=500 N=3
+Barrier_Time=0.000099
+MPI B=500 N=4
+Barrier_Time=0.000100
+MPI B=500 N=5
+Barrier_Time=0.000115
+MPI B=500 N=6
+Barrier_Time=0.000132
+MPI B=500 N=7
+Barrier_Time=0.000139
+MPI B=500 N=8
+Barrier_Time=0.000151
+MPI B=500 N=9
+Barrier_Time=0.000178
+MPI B=500 N=10
+Barrier_Time=0.000193
+MPI B=500 N=11
+Barrier_Time=0.000183
+MPI B=500 N=12
+Barrier_Time=0.000177
+MPI B=750 N=2
+Barrier_Time=0.000066
+MPI B=750 N=3
+Barrier_Time=0.000094
+MPI B=750 N=4
+Barrier_Time=0.000100
+MPI B=750 N=5
+Barrier_Time=0.000118
+MPI B=750 N=6
+Barrier_Time=0.000129
+MPI B=750 N=7
+Barrier_Time=0.000176
+MPI B=750 N=8
+Barrier_Time=0.000153
+MPI B=750 N=9
+Barrier_Time=0.000173
+MPI B=750 N=10
+Barrier_Time=0.000171
+MPI B=750 N=11
+Barrier_Time=0.000190
+MPI B=750 N=12
+Barrier_Time=0.000165
+MPI B=1000 N=2
+Barrier_Time=0.000064
+MPI B=1000 N=3
+Barrier_Time=0.000100
+MPI B=1000 N=4
+Barrier_Time=0.000097
+MPI B=1000 N=5
+Barrier_Time=0.000123
+MPI B=1000 N=6
+Barrier_Time=0.000106
+MPI B=1000 N=7
+Barrier_Time=0.000129
+MPI B=1000 N=8
+Barrier_Time=0.000142
+MPI B=1000 N=9
+Barrier_Time=0.000171
+MPI B=1000 N=10
+Barrier_Time=0.000185
+MPI B=1000 N=11
+Barrier_Time=0.000187
+MPI B=1000 N=12
+Barrier_Time=0.000189
+*** COMPLETED: Sun Mar 10 22:56:32 EDT 2013 on jinx5 ***
+Removing user psmm3 from group authjobs

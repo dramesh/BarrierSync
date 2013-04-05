@@ -1,0 +1,47 @@
+#PBS -q class
+#PBS -l nodes=12:sixcore
+#PBS -l walltime=00:20:00
+#PBS -N psmmdr_mpi
+
+export OMPI_MCA_mpi_yield_when_idle=0
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE
+
+echo "*** STARTED: `date` on `hostname` ***"
+echo $PWD
+cat $PBS_NODEFILE
+echo -e "\n\n"
+source /nethome/psmm3/prj2/barrier/setup-mpi.sh
+
+# Run the program
+
+for i in 1 10 25 50 75 100 250 500 750 1000
+do
+	for j in {2..12}
+	do
+		echo "MCS B="$i" N="$j
+		timeout 60 mpirun --hostfile $PBS_NODEFILE -np $j /nethome/psmm3/prj2/barrier/mcs_tree_barrier $i
+	done
+done
+
+for i in 1 10 25 50 75 100 250 500 750 1000
+do
+	for j in {2..12}
+	do
+		echo "TMT B="$i" N="$j
+		timeout 60 mpirun --hostfile $PBS_NODEFILE -np $j /nethome/psmm3/prj2/barrier/tmt_barrier $i
+	done
+done
+
+for i in 1 10 25 50 75 100 250 500 750 1000
+do
+	for j in {2..12}
+	do
+		echo "MPI B="$i" N="$j
+		timeout 60 mpirun --hostfile $PBS_NODEFILE -np $j /nethome/psmm3/prj2/barrier/mpi_barrier $i
+	done
+done
+
+echo "*** COMPLETED: `date` on `hostname` ***"
+
+# eof

@@ -1,0 +1,512 @@
+Software Combining Binary Tree (OpenMP) - MCS Tree (MPI) Combined Barrier:
+B=1 #MP=2 #MPI=2
+Barrier_Time=0.001092
+B=1 #MP=2 #MPI=3
+Barrier_Time=0.000786
+B=1 #MP=2 #MPI=4
+Barrier_Time=0.001451
+B=1 #MP=2 #MPI=5
+Barrier_Time=0.003935
+B=1 #MP=2 #MPI=6
+Barrier_Time=0.002792
+B=1 #MP=2 #MPI=7
+Barrier_Time=0.002581
+B=1 #MP=2 #MPI=8
+Barrier_Time=0.003084
+B=1 #MP=4 #MPI=2
+Barrier_Time=0.001144
+B=1 #MP=4 #MPI=3
+Barrier_Time=0.001060
+B=1 #MP=4 #MPI=4
+Barrier_Time=0.001393
+B=1 #MP=4 #MPI=5
+Barrier_Time=0.001477
+B=1 #MP=4 #MPI=6
+Barrier_Time=0.002194
+B=1 #MP=4 #MPI=7
+Barrier_Time=0.002847
+B=1 #MP=4 #MPI=8
+Barrier_Time=0.001520
+B=1 #MP=6 #MPI=2
+Barrier_Time=0.000687
+B=1 #MP=6 #MPI=3
+Barrier_Time=0.001602
+B=1 #MP=6 #MPI=4
+Barrier_Time=0.001254
+B=1 #MP=6 #MPI=5
+Barrier_Time=0.002162
+B=1 #MP=6 #MPI=6
+Barrier_Time=0.003068
+B=1 #MP=6 #MPI=7
+Barrier_Time=0.001835
+B=1 #MP=6 #MPI=8
+Barrier_Time=0.002511
+B=1 #MP=8 #MPI=2
+Barrier_Time=0.001531
+B=1 #MP=8 #MPI=3
+Barrier_Time=0.004423
+B=1 #MP=8 #MPI=4
+Barrier_Time=0.004192
+B=1 #MP=8 #MPI=5
+Barrier_Time=0.001338
+B=1 #MP=8 #MPI=6
+Barrier_Time=0.002818
+B=1 #MP=8 #MPI=7
+Barrier_Time=0.003625
+B=1 #MP=8 #MPI=8
+Barrier_Time=0.002771
+B=10 #MP=2 #MPI=2
+Barrier_Time=0.000212
+B=10 #MP=2 #MPI=3
+Barrier_Time=0.000196
+B=10 #MP=2 #MPI=4
+Barrier_Time=0.000513
+B=10 #MP=2 #MPI=5
+Barrier_Time=0.000482
+B=10 #MP=2 #MPI=6
+Barrier_Time=0.000623
+B=10 #MP=2 #MPI=7
+Barrier_Time=0.000631
+B=10 #MP=2 #MPI=8
+Barrier_Time=0.000710
+B=10 #MP=4 #MPI=2
+Barrier_Time=0.000407
+B=10 #MP=4 #MPI=3
+Barrier_Time=0.000352
+B=10 #MP=4 #MPI=4
+Barrier_Time=0.000568
+B=10 #MP=4 #MPI=5
+Barrier_Time=0.000538
+B=10 #MP=4 #MPI=6
+Barrier_Time=0.000900
+B=10 #MP=4 #MPI=7
+Barrier_Time=0.000739
+B=10 #MP=4 #MPI=8
+Barrier_Time=0.000755
+B=10 #MP=6 #MPI=2
+Barrier_Time=0.000481
+B=10 #MP=6 #MPI=3
+Barrier_Time=0.000635
+B=10 #MP=6 #MPI=4
+Barrier_Time=0.000756
+B=10 #MP=6 #MPI=5
+Barrier_Time=0.000718
+B=10 #MP=6 #MPI=6
+Barrier_Time=0.000945
+B=10 #MP=6 #MPI=7
+Barrier_Time=0.000729
+B=10 #MP=6 #MPI=8
+Barrier_Time=0.000903
+B=10 #MP=8 #MPI=2
+Barrier_Time=0.000742
+B=10 #MP=8 #MPI=3
+Barrier_Time=0.000905
+B=10 #MP=8 #MPI=4
+Barrier_Time=0.001414
+B=10 #MP=8 #MPI=5
+Barrier_Time=0.002311
+B=10 #MP=8 #MPI=6
+Barrier_Time=0.001940
+B=10 #MP=8 #MPI=7
+Barrier_Time=0.001887
+B=10 #MP=8 #MPI=8
+Barrier_Time=0.001514
+B=25 #MP=2 #MPI=2
+Barrier_Time=0.000159
+B=25 #MP=2 #MPI=3
+Barrier_Time=0.000189
+B=25 #MP=2 #MPI=4
+Barrier_Time=0.000372
+B=25 #MP=2 #MPI=5
+Barrier_Time=0.000303
+B=25 #MP=2 #MPI=6
+Barrier_Time=0.000523
+B=25 #MP=2 #MPI=7
+Barrier_Time=0.000559
+B=25 #MP=2 #MPI=8
+Barrier_Time=0.000413
+B=25 #MP=4 #MPI=2
+Barrier_Time=0.000305
+B=25 #MP=4 #MPI=3
+Barrier_Time=0.000395
+B=25 #MP=4 #MPI=4
+Barrier_Time=0.000521
+B=25 #MP=4 #MPI=5
+Barrier_Time=0.000539
+B=25 #MP=4 #MPI=6
+Barrier_Time=0.000603
+B=25 #MP=4 #MPI=7
+Barrier_Time=0.000550
+B=25 #MP=4 #MPI=8
+Barrier_Time=0.000514
+B=25 #MP=6 #MPI=2
+Barrier_Time=0.000295
+B=25 #MP=6 #MPI=3
+Barrier_Time=0.000371
+B=25 #MP=6 #MPI=4
+Barrier_Time=0.000682
+B=25 #MP=6 #MPI=5
+Barrier_Time=0.000700
+B=25 #MP=6 #MPI=6
+Barrier_Time=0.000783
+B=25 #MP=6 #MPI=7
+Barrier_Time=0.001091
+B=25 #MP=6 #MPI=8
+Barrier_Time=0.000824
+B=25 #MP=8 #MPI=2
+Barrier_Time=0.000778
+B=25 #MP=8 #MPI=3
+Barrier_Time=0.001308
+B=25 #MP=8 #MPI=4
+Barrier_Time=0.001265
+B=25 #MP=8 #MPI=5
+Barrier_Time=0.001790
+B=25 #MP=8 #MPI=6
+Barrier_Time=0.002111
+B=25 #MP=8 #MPI=7
+Barrier_Time=0.001734
+B=25 #MP=8 #MPI=8
+Barrier_Time=0.001993
+B=50 #MP=2 #MPI=2
+Barrier_Time=0.000150
+B=50 #MP=2 #MPI=3
+Barrier_Time=0.000250
+B=50 #MP=2 #MPI=4
+Barrier_Time=0.000387
+B=50 #MP=2 #MPI=5
+Barrier_Time=0.000353
+B=50 #MP=2 #MPI=6
+Barrier_Time=0.000526
+B=50 #MP=2 #MPI=7
+Barrier_Time=0.000582
+B=50 #MP=2 #MPI=8
+Barrier_Time=0.000611
+B=50 #MP=4 #MPI=2
+Barrier_Time=0.000186
+B=50 #MP=4 #MPI=3
+Barrier_Time=0.000308
+B=50 #MP=4 #MPI=4
+Barrier_Time=0.000423
+B=50 #MP=4 #MPI=5
+Barrier_Time=0.000274
+B=50 #MP=4 #MPI=6
+Barrier_Time=0.000591
+B=50 #MP=4 #MPI=7
+Barrier_Time=0.000534
+B=50 #MP=4 #MPI=8
+Barrier_Time=0.000603
+B=50 #MP=6 #MPI=2
+Barrier_Time=0.000136
+B=50 #MP=6 #MPI=3
+Barrier_Time=0.000138
+B=50 #MP=6 #MPI=4
+Barrier_Time=0.000228
+B=50 #MP=6 #MPI=5
+Barrier_Time=0.000565
+B=50 #MP=6 #MPI=6
+Barrier_Time=0.001057
+B=50 #MP=6 #MPI=7
+Barrier_Time=0.000876
+B=50 #MP=6 #MPI=8
+Barrier_Time=0.001088
+B=50 #MP=8 #MPI=2
+Barrier_Time=0.000742
+B=50 #MP=8 #MPI=3
+Barrier_Time=0.001104
+B=50 #MP=8 #MPI=4
+Barrier_Time=0.001079
+B=50 #MP=8 #MPI=5
+Barrier_Time=0.001522
+B=50 #MP=8 #MPI=6
+Barrier_Time=0.001374
+B=50 #MP=8 #MPI=7
+Barrier_Time=0.001692
+B=50 #MP=8 #MPI=8
+Barrier_Time=0.001657
+B=75 #MP=2 #MPI=2
+Barrier_Time=0.000134
+B=75 #MP=2 #MPI=3
+Barrier_Time=0.000133
+B=75 #MP=2 #MPI=4
+Barrier_Time=0.000413
+B=75 #MP=2 #MPI=5
+Barrier_Time=0.000463
+B=75 #MP=2 #MPI=6
+Barrier_Time=0.000507
+B=75 #MP=2 #MPI=7
+Barrier_Time=0.000490
+B=75 #MP=2 #MPI=8
+Barrier_Time=0.000630
+B=75 #MP=4 #MPI=2
+Barrier_Time=0.000266
+B=75 #MP=4 #MPI=3
+Barrier_Time=0.000288
+B=75 #MP=4 #MPI=4
+Barrier_Time=0.000406
+B=75 #MP=4 #MPI=5
+Barrier_Time=0.000462
+B=75 #MP=4 #MPI=6
+Barrier_Time=0.000533
+B=75 #MP=4 #MPI=7
+Barrier_Time=0.000567
+B=75 #MP=4 #MPI=8
+Barrier_Time=0.000584
+B=75 #MP=6 #MPI=2
+Barrier_Time=0.000304
+B=75 #MP=6 #MPI=3
+Barrier_Time=0.000658
+B=75 #MP=6 #MPI=4
+Barrier_Time=0.000783
+B=75 #MP=6 #MPI=5
+Barrier_Time=0.000771
+B=75 #MP=6 #MPI=6
+Barrier_Time=0.000839
+B=75 #MP=6 #MPI=7
+Barrier_Time=0.001487
+B=75 #MP=6 #MPI=8
+Barrier_Time=0.001267
+B=75 #MP=8 #MPI=2
+Barrier_Time=0.001042
+B=75 #MP=8 #MPI=3
+Barrier_Time=0.001303
+B=75 #MP=8 #MPI=4
+Barrier_Time=0.000797
+B=75 #MP=8 #MPI=5
+Barrier_Time=0.001050
+B=75 #MP=8 #MPI=6
+Barrier_Time=0.001391
+B=75 #MP=8 #MPI=7
+Barrier_Time=0.001671
+B=75 #MP=8 #MPI=8
+Barrier_Time=0.001642
+B=100 #MP=2 #MPI=2
+Barrier_Time=0.000080
+B=100 #MP=2 #MPI=3
+Barrier_Time=0.000313
+B=100 #MP=2 #MPI=4
+Barrier_Time=0.000170
+B=100 #MP=2 #MPI=5
+Barrier_Time=0.000251
+B=100 #MP=2 #MPI=6
+Barrier_Time=0.000377
+B=100 #MP=2 #MPI=7
+Barrier_Time=0.000388
+B=100 #MP=2 #MPI=8
+Barrier_Time=0.000530
+B=100 #MP=4 #MPI=2
+Barrier_Time=0.000141
+B=100 #MP=4 #MPI=3
+Barrier_Time=0.000254
+B=100 #MP=4 #MPI=4
+Barrier_Time=0.000427
+B=100 #MP=4 #MPI=5
+Barrier_Time=0.000487
+B=100 #MP=4 #MPI=6
+Barrier_Time=0.000591
+B=100 #MP=4 #MPI=7
+Barrier_Time=0.000423
+B=100 #MP=4 #MPI=8
+Barrier_Time=0.000681
+B=100 #MP=6 #MPI=2
+Barrier_Time=0.000104
+B=100 #MP=6 #MPI=3
+Barrier_Time=0.000456
+B=100 #MP=6 #MPI=4
+Barrier_Time=0.000504
+B=100 #MP=6 #MPI=5
+Barrier_Time=0.000782
+B=100 #MP=6 #MPI=6
+Barrier_Time=0.000911
+B=100 #MP=6 #MPI=7
+Barrier_Time=0.001195
+B=100 #MP=6 #MPI=8
+Barrier_Time=0.001090
+B=100 #MP=8 #MPI=2
+Barrier_Time=0.001083
+B=100 #MP=8 #MPI=3
+Barrier_Time=0.001091
+B=100 #MP=8 #MPI=4
+Barrier_Time=0.001609
+B=100 #MP=8 #MPI=5
+Barrier_Time=0.001381
+B=100 #MP=8 #MPI=6
+Barrier_Time=0.001623
+B=100 #MP=8 #MPI=7
+Barrier_Time=0.001440
+B=100 #MP=8 #MPI=8
+Barrier_Time=0.001629
+B=1000 #MP=2 #MPI=2
+Barrier_Time=0.000064
+B=1000 #MP=2 #MPI=3
+Barrier_Time=0.000091
+B=1000 #MP=2 #MPI=4
+Barrier_Time=0.000206
+B=1000 #MP=2 #MPI=5
+Barrier_Time=0.000266
+B=1000 #MP=2 #MPI=6
+Barrier_Time=0.000490
+B=1000 #MP=2 #MPI=7
+Barrier_Time=0.000473
+B=1000 #MP=2 #MPI=8
+Barrier_Time=0.000585
+B=1000 #MP=4 #MPI=2
+Barrier_Time=0.000195
+B=1000 #MP=4 #MPI=3
+Barrier_Time=0.000233
+B=1000 #MP=4 #MPI=4
+Barrier_Time=0.000348
+B=1000 #MP=4 #MPI=5
+Barrier_Time=0.000413
+B=1000 #MP=4 #MPI=6
+Barrier_Time=0.000421
+B=1000 #MP=4 #MPI=7
+Barrier_Time=0.000451
+B=1000 #MP=4 #MPI=8
+Barrier_Time=0.000620
+B=1000 #MP=6 #MPI=2
+Barrier_Time=0.000421
+B=1000 #MP=6 #MPI=3
+Barrier_Time=0.000390
+B=1000 #MP=6 #MPI=4
+Barrier_Time=0.000827
+B=1000 #MP=6 #MPI=5
+Barrier_Time=0.000850
+B=1000 #MP=6 #MPI=6
+Barrier_Time=0.000818
+B=1000 #MP=6 #MPI=7
+Barrier_Time=0.000832
+B=1000 #MP=6 #MPI=8
+Barrier_Time=0.000924
+B=1000 #MP=8 #MPI=2
+Barrier_Time=0.000446
+B=1000 #MP=8 #MPI=3
+Barrier_Time=0.000792
+B=1000 #MP=8 #MPI=4
+Barrier_Time=0.000730
+B=1000 #MP=8 #MPI=5
+Barrier_Time=0.000773
+B=1000 #MP=8 #MPI=6
+Barrier_Time=0.000875
+B=1000 #MP=8 #MPI=7
+Barrier_Time=0.000796
+B=1000 #MP=8 #MPI=8
+Barrier_Time=0.000840
+
+Standalone MPI Baseline:
+Baseline B=100 #MP=2 #MPI=2
+Barrier_Time=0.000069
+Baseline B=100 #MP=2 #MPI=3
+Barrier_Time=0.000082
+Baseline B=100 #MP=2 #MPI=4
+Barrier_Time=0.000086
+Baseline B=100 #MP=2 #MPI=5
+Barrier_Time=0.000093
+Baseline B=100 #MP=2 #MPI=6
+Barrier_Time=0.000087
+Baseline B=100 #MP=2 #MPI=7
+Barrier_Time=0.000095
+Baseline B=100 #MP=2 #MPI=8
+Barrier_Time=0.000090
+
+Baseline B=100 #MP=4 #MPI=2
+Barrier_Time=0.000136
+Baseline B=100 #MP=4 #MPI=3
+Barrier_Time=0.000148
+Baseline B=100 #MP=4 #MPI=4
+Barrier_Time=0.000144
+Baseline B=100 #MP=4 #MPI=5
+Barrier_Time=0.000159
+Baseline B=100 #MP=4 #MPI=6
+Barrier_Time=0.000149
+Baseline B=100 #MP=4 #MPI=7
+Barrier_Time=0.000157
+Baseline B=100 #MP=4 #MPI=8
+Barrier_Time=0.000159
+
+Baseline B=100 #MP=6 #MPI=2
+Barrier_Time=0.000252
+Baseline B=100 #MP=6 #MPI=3
+Barrier_Time=0.000283
+Baseline B=100 #MP=6 #MPI=4
+Barrier_Time=0.000297
+Baseline B=100 #MP=6 #MPI=5
+Barrier_Time=0.000297
+Baseline B=100 #MP=6 #MPI=6
+Barrier_Time=0.000411
+Baseline B=100 #MP=6 #MPI=7
+Barrier_Time=0.000369
+Baseline B=100 #MP=6 #MPI=8
+Barrier_Time=0.000367
+
+Baseline B=100 #MP=8 #MPI=2
+Barrier_Time=0.000200
+Baseline B=100 #MP=8 #MPI=3
+Barrier_Time=0.000202
+Baseline B=100 #MP=8 #MPI=4
+Barrier_Time=0.000209
+Baseline B=100 #MP=8 #MPI=5
+Barrier_Time=0.000212
+Baseline B=100 #MP=8 #MPI=6
+Barrier_Time=0.000238
+Baseline B=100 #MP=8 #MPI=7
+Barrier_Time=0.000227
+Baseline B=100 #MP=8 #MPI=8
+Barrier_Time=0.000226
+
+OpenMP_MPI Combined Baseline:
+B=100 #MP=2 #MPI=2
+Barrier_Time=0.000048
+B=100 #MP=2 #MPI=3
+Barrier_Time=0.000290
+B=100 #MP=2 #MPI=4
+Barrier_Time=0.000208
+B=100 #MP=2 #MPI=5
+Barrier_Time=0.000286
+B=100 #MP=2 #MPI=6
+Barrier_Time=0.000208
+B=100 #MP=2 #MPI=7
+Barrier_Time=0.000382
+B=100 #MP=2 #MPI=8
+Barrier_Time=0.000344
+B=100 #MP=4 #MPI=2
+Barrier_Time=0.000035
+B=100 #MP=4 #MPI=3
+Barrier_Time=0.000348
+B=100 #MP=4 #MPI=4
+Barrier_Time=0.000326
+B=100 #MP=4 #MPI=5
+Barrier_Time=0.000346
+B=100 #MP=4 #MPI=6
+Barrier_Time=0.000410
+B=100 #MP=4 #MPI=7
+Barrier_Time=0.000347
+B=100 #MP=4 #MPI=8
+Barrier_Time=0.000317
+B=100 #MP=6 #MPI=2
+Barrier_Time=0.000038
+B=100 #MP=6 #MPI=3
+Barrier_Time=0.000092
+B=100 #MP=6 #MPI=4
+Barrier_Time=0.000287
+B=100 #MP=6 #MPI=5
+Barrier_Time=0.000318
+B=100 #MP=6 #MPI=6
+Barrier_Time=0.000397
+B=100 #MP=6 #MPI=7
+Barrier_Time=0.000368
+B=100 #MP=6 #MPI=8
+Barrier_Time=0.000495
+B=100 #MP=8 #MPI=2
+Barrier_Time=0.000025
+B=100 #MP=8 #MPI=3
+Barrier_Time=0.000076
+B=100 #MP=8 #MPI=4
+Barrier_Time=0.000185
+B=100 #MP=8 #MPI=5
+Barrier_Time=0.000407
+B=100 #MP=8 #MPI=6
+Barrier_Time=0.000456
+B=100 #MP=8 #MPI=7
+Barrier_Time=0.000584
+B=100 #MP=8 #MPI=8
+Barrier_Time=0.000274

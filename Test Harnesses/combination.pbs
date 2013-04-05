@@ -1,0 +1,43 @@
+#PBS -q class
+#PBS -l nodes=8:sixcore
+#PBS -l walltime=00:30:00
+#PBS -N psmmdr_openmp-mpi
+
+export OMPI_MCA_mpi_yield_when_idle=0
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE
+
+echo "*** STARTED: `date` on `hostname` ***"
+echo $PWD
+cat $PBS_NODEFILE
+echo -e "\n\n"
+source /nethome/psmm3/prj2/barrier/setup-mpi.sh
+
+# Run the program
+echo "Software Combining Binary Tree (OpenMP) - MCS Tree (MPI) Combined Barrier:"
+for i in 1 10 25 50 75 100 250 500 750 1000
+do
+	for j in 2 4 6 8
+	do
+		for k in {2..8}
+		do
+			echo "B="$i" #MP="$j" #MPI="$k
+			timeout 60 mpirun --hostfile $PBS_NODEFILE -np $k /nethome/psmm3/prj2/barrier/combined_barrier $j $i
+		done
+	done
+done
+echo -e "\n"
+
+echo "OpenMP_MPI Combined Baseline:"
+for j in 2 4 6 8
+do
+	for k in {2..8}
+	do
+		echo "B=100 #MP="$j" #MPI="$k
+		timeout 60 mpirun --hostfile $PBS_NODEFILE -np $k /nethome/psmm3/prj2/barrier/omp_mpi_barrier $j 100
+	done
+done
+
+echo "*** COMPLETED: `date` on `hostname` ***"
+
+# eof

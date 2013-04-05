@@ -1,0 +1,28 @@
+#PBS -q class
+#PBS -l nodes=6:sixcore
+#PBS -l walltime=00:05:00
+#PBS -N psmmdr_openmp-mpi_6
+
+export OMPI_MCA_mpi_yield_when_idle=0
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE
+
+echo "*** STARTED: `date` on `hostname` ***"
+echo $PWD
+cat $PBS_NODEFILE
+echo -e "\n\n"
+source /nethome/psmm3/prj2/barrier/setup-mpi.sh
+
+# Run the program
+echo "Standalone MPI Baseline:"
+for k in {2..8}
+do
+	let $i=6*$k
+	echo "B=100 #MP=6 #MPI="$k
+	timeout 60 mpirun --hostfile $PBS_NODEFILE -np $i /nethome/psmm3/prj2/barrier/mpi_barrier 100
+done
+echo -e "\n"
+
+echo "*** COMPLETED: `date` on `hostname` ***"
+
+# eof
